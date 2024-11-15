@@ -14,7 +14,7 @@
 ## Installation  
 
 1. **Download the Game**:  
-   Download the game’s executable file from the provided link or source.  
+   Download the game’s executable file from the [link](https://github.com/MohanMoju/Brick-breaker/releases/tag/Game).  
 
 2. **Extract Files**:  
    If the game is in a ZIP archive, extract it to a folder on your computer.  
